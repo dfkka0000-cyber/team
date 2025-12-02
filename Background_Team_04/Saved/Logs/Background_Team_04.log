@@ -1157,3 +1157,1288 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.02-11.05.54:540][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 33.910 ms (total: 34.193 ms)
 [2025.12.02-11.05.54:682][  1]LogSourceControl: Uncontrolled asset discovery finished in 0.26195 seconds (Found 7711 uncontrolled assets)
 [2025.12.02-11.05.54:708][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/' took 0.35s
+[2025.12.02-11.05.55:756][  5]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 3.671077
+[2025.12.02-11.05.55:757][  5]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.12.02-11.05.55:758][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4.014861
+[2025.12.02-11.05.57:079][  9]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.12.02-11.05.57:747][ 11]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 5.670917
+[2025.12.02-11.05.57:748][ 11]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1416957435
+[2025.12.02-11.05.57:748][ 11]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.670917, Update Interval: 305.599548
+[2025.12.02-11.07.48:606][345]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.02-11.11.03:508][929]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 311.766357
+[2025.12.02-11.11.04:502][932]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.02-11.11.04:502][932]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 312.429535, Update Interval: 344.074829
+[2025.12.02-11.11.27:845][180]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.12.02-11.11.27:926][181]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.12.02-11.11.33:443][815]Cmd: DELETE
+[2025.12.02-11.11.33:443][815]Cmd: ACTOR DELETE
+[2025.12.02-11.11.33:446][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:447][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:447][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:447][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:448][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:448][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:448][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:448][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:450][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:450][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:450][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:451][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:451][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:451][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:452][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:452][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:452][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:453][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:453][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:453][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:454][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:454][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:454][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:455][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:455][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:455][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:456][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:456][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:457][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:457][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:457][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:458][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:458][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:458][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:459][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:459][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:459][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:460][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:460][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:460][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:460][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:461][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:461][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:461][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:462][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:462][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:462][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:463][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:463][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:464][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:464][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:464][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:465][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.33:506][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.02-11.11.33:507][815]LogEditorActor: Deleted 53 Actors (0.062 secs)
+[2025.12.02-11.11.34:851][962]Cmd: DELETE
+[2025.12.02-11.11.34:852][962]Cmd: ACTOR DELETE
+[2025.12.02-11.11.34:852][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-11.11.34:865][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.02-11.11.34:866][962]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.12.02-11.12.25:417][556]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2025.12.02-11.12.26:302][658]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.02-11.12.26:326][658]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.02-11.12.26:333][659]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.02-11.12.30:394][145]LogContentBrowser: Attempting asset rename: NewFolder -> Dumy_Data
+[2025.12.02-11.12.30:395][145]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.02-11.12.32:171][351]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.12.38:534][351]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/stone_mountian.fbx]
+[2025.12.02-11.12.38:676][351]LogSlate: Took 0.001312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.12.02-11.12.39:469][351]LogSlate: Window 'Import Content' being destroyed
+[2025.12.02-11.12.39:494][351]LogInterchangeEngine: [Pending] Importing
+[2025.12.02-11.12.39:548][352]LogStreaming: Display: FlushAsyncLoading(427): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.12.39:573][353]LogStreaming: Display: FlushAsyncLoading(433): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.12.39:613][354]LogStreaming: Display: FlushAsyncLoading(434): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.12.39:638][355]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dumy_Data/stone_mountian_Anim.stone_mountian_Anim (Required Memory Estimate: 0.20 MB)
+[2025.12.02-11.12.39:643][355]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dumy_Data/stone_mountian_Anim.stone_mountian_Anim, at AnimationSequence/c4b4140cbed485ba20e703a3c1105670f177fa87
+[2025.12.02-11.12.39:657][355]LogSkeletalMesh: Building Skeletal Mesh stone_mountian...
+[2025.12.02-11.12.39:673][356]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Dumy_Data/stone_mountian.stone_mountian
+[2025.12.02-11.12.39:741][357]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.12.02-11.12.39:751][357]LogMaterial: Display: Material /Game/Dumy_Data/standardSurface1.standardSurface1 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.02-11.12.39:755][357]LogMaterial: Display: Material /Game/Dumy_Data/standardSurface3.standardSurface3 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.02-11.12.39:758][357]LogMaterial: Display: Material /Game/Dumy_Data/01_-_Default.01_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.02-11.12.39:762][357]LogMaterial: Display: Material /Game/Dumy_Data/lambert3.lambert3 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.02-11.12.39:770][357]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.12.39:771][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.12.39:794][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.02-11.12.39:824][358]LogInterchangeEngine: Display: Interchange import completed [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/stone_mountian.fbx]
+[2025.12.02-11.12.39:825][358]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.02-11.12.39:825][358]LogInterchangeEngine: [Success] Import Done
+[2025.12.02-11.12.41:663][551]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.12.02-11.12.41:727][552]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.12.02-11.12.41:735][552]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.02-11.12.41:758][553]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.12.02-11.12.44:786][883]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian.stone_mountian
+[2025.12.02-11.12.44:786][883]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian.stone_mountian
+[2025.12.02-11.12.44:787][883]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian.stone_mountian as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_0
+[2025.12.02-11.12.44:787][883]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian.stone_mountian as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_0
+[2025.12.02-11.12.45:346][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.02-11.12.45:347][948]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.12.02-11.12.45:352][948]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian.stone_mountian
+[2025.12.02-11.12.45:352][948]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian.stone_mountian
+[2025.12.02-11.12.45:354][948]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian.stone_mountian as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D3A702_1980753983
+[2025.12.02-11.12.45:354][948]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian.stone_mountian as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D3A702_1980753983
+[2025.12.02-11.12.54:432][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.12.02-11.12.55:916][930]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.02-11.12.55:968][930]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/Dumy_Data/stone_mountian_Skeleton.stone_mountian_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Dumy_Data/stone_mountian_PhysicsAsset.stone_mountian_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Dumy_Data/stone_mountian_Anim.stone_mountian_Anim
+	Asset Type: AnimSequence
+	Asset Name: /Game/Dumy_Data/stone_mountian.stone_mountian
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Dumy_Data/standardSurface3.standardSurface3
+	Asset Type: Material
+	Asset Name: /Game/Dumy_Data/standardSurface1.standardSurface1
+	Asset Type: Material
+	Asset Name: /Game/Dumy_Data/lambert3.lambert3
+	Asset Type: Material
+	Asset Name: /Game/Dumy_Data/01_-_Default.01_-_Default
+	Asset Type: Material
+[2025.12.02-11.12.56:282][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.02-11.12.56:294][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.02-11.12.56:306][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.12.02-11.13.23:720][223]LogStreaming: Display: FlushAsyncLoading(435): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.23:747][223]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/stone_mountian_01.fbx]
+[2025.12.02-11.13.24:487][223]LogSlate: Window 'Import Content' being destroyed
+[2025.12.02-11.13.24:511][223]LogInterchangeEngine: [Pending] Importing
+[2025.12.02-11.13.24:558][224]LogStreaming: Display: FlushAsyncLoading(438): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.24:582][225]LogStreaming: Display: FlushAsyncLoading(441): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.24:606][226]LogStreaming: Display: FlushAsyncLoading(442): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.24:628][227]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dumy_Data/stone_mountian_01_Anim.stone_mountian_01_Anim (Required Memory Estimate: 0.20 MB)
+[2025.12.02-11.13.24:628][227]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dumy_Data/stone_mountian_01_Anim.stone_mountian_01_Anim, at AnimationSequence/b486fed76d19af18c77cf77207a74974fce37618
+[2025.12.02-11.13.24:636][227]LogSkeletalMesh: Building Skeletal Mesh stone_mountian_01...
+[2025.12.02-11.13.24:642][228]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Dumy_Data/stone_mountian_01.stone_mountian_01
+[2025.12.02-11.13.24:745][230]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.12.02-11.13.24:750][230]LogMaterial: Display: Material /Game/Dumy_Data/lambert3.lambert3 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.02-11.13.24:753][230]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.13.24:753][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.13.24:758][230]LogInterchangeEngine: Display: Interchange import completed [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/stone_mountian_01.fbx]
+[2025.12.02-11.13.24:758][230]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.02-11.13.24:758][230]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.02-11.13.24:758][230]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/stone_mountian_02.fbx]
+[2025.12.02-11.13.24:790][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.02-11.13.24:851][232]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.12.02-11.13.24:900][233]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.12.02-11.13.24:928][233]LogStreaming: Display: FlushAsyncLoading(443): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.24:954][234]LogStreaming: Display: FlushAsyncLoading(446): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.24:978][235]LogStreaming: Display: FlushAsyncLoading(447): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.24:991][236]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dumy_Data/stone_mountian_02_Anim.stone_mountian_02_Anim (Required Memory Estimate: 0.20 MB)
+[2025.12.02-11.13.24:991][236]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dumy_Data/stone_mountian_02_Anim.stone_mountian_02_Anim, at AnimationSequence/50152f226f2bdbe5466c2ccc927b3e14b59d3c95
+[2025.12.02-11.13.24:998][236]LogSkeletalMesh: Building Skeletal Mesh stone_mountian_02...
+[2025.12.02-11.13.25:000][237]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Dumy_Data/stone_mountian_02.stone_mountian_02
+[2025.12.02-11.13.25:033][238]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.12.02-11.13.25:037][238]LogMaterial: Display: Material /Game/Dumy_Data/01_-_Default.01_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.02-11.13.25:040][238]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.13.25:040][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.13.25:043][238]LogInterchangeEngine: Display: Interchange import completed [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/stone_mountian_02.fbx]
+[2025.12.02-11.13.25:043][238]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.12.02-11.13.25:043][238]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.12.02-11.13.25:043][238]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/stone_mountian_03.fbx]
+[2025.12.02-11.13.25:060][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.02-11.13.25:118][241]LogStreaming: Display: FlushAsyncLoading(448): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.25:120][242]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.12.02-11.13.25:150][242]LogStreaming: Display: FlushAsyncLoading(452): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.25:156][243]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.12.02-11.13.25:170][243]LogStreaming: Display: FlushAsyncLoading(453): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.25:184][244]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dumy_Data/stone_mountian_03_Anim.stone_mountian_03_Anim (Required Memory Estimate: 0.20 MB)
+[2025.12.02-11.13.25:185][244]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dumy_Data/stone_mountian_03_Anim.stone_mountian_03_Anim, at AnimationSequence/9609c853b2994c5626051a5025fe768b40c9d910
+[2025.12.02-11.13.25:204][244]LogSkeletalMesh: Building Skeletal Mesh stone_mountian_03...
+[2025.12.02-11.13.25:208][245]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Dumy_Data/stone_mountian_03.stone_mountian_03
+[2025.12.02-11.13.25:222][246]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.12.02-11.13.25:226][246]LogMaterial: Display: Material /Game/Dumy_Data/standardSurface1.standardSurface1 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.02-11.13.25:228][246]LogMaterial: Display: Material /Game/Dumy_Data/standardSurface3.standardSurface3 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.02-11.13.25:260][246]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.13.25:260][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.13.25:274][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.02-11.13.25:303][247]LogInterchangeEngine: Display: Interchange import completed [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/stone_mountian_03.fbx]
+[2025.12.02-11.13.25:304][247]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.02-11.13.25:304][247]LogInterchangeEngine: [Success] Import Done
+[2025.12.02-11.13.25:329][248]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.12.02-11.13.25:346][249]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.12.02-11.13.41:598][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.12.02-11.13.42:755][963]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.02-11.13.42:774][963]LogUObjectGlobals: Force Deleting 13 Package(s):
+	Asset Name: /Game/Dumy_Data/stone_mountian_01_Skeleton.stone_mountian_01_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Dumy_Data/stone_mountian_01.stone_mountian_01
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Dumy_Data/stone_mountian_01_Anim.stone_mountian_01_Anim
+	Asset Type: AnimSequence
+	Asset Name: /Game/Dumy_Data/01_-_Default.01_-_Default
+	Asset Type: Material
+	Asset Name: /Game/Dumy_Data/lambert3.lambert3
+	Asset Type: Material
+	Asset Name: /Game/Dumy_Data/stone_mountian_02_PhysicsAsset.stone_mountian_02_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Dumy_Data/stone_mountian_02_Skeleton.stone_mountian_02_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Dumy_Data/stone_mountian_02_Anim.stone_mountian_02_Anim
+	Asset Type: AnimSequence
+	Asset Name: /Game/Dumy_Data/standardSurface1.standardSurface1
+	Asset Type: Material
+	Asset Name: /Game/Dumy_Data/standardSurface3.standardSurface3
+	Asset Type: Material
+[2025.12.02-11.13.43:372][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.12.02-11.13.43:383][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.02-11.13.43:395][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.12.02-11.13.43:400][963]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:413][963]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:435][965]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:444][966]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:579][981]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:610][982]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:616][983]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:624][984]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:633][985]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:641][986]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:650][987]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:658][988]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:668][989]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:680][990]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:689][991]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:701][992]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:713][993]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:724][994]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:731][995]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:738][996]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.43:746][997]LogStreaming: Display: FlushAsyncLoading(454): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:746][997]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Dumy_Data/stone_mountian_01.stone_mountian_01'
+[2025.12.02-11.13.43:755][998]LogStreaming: Display: FlushAsyncLoading(456): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:763][999]LogStreaming: Display: FlushAsyncLoading(457): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:772][  0]LogStreaming: Display: FlushAsyncLoading(458): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:780][  1]LogStreaming: Display: FlushAsyncLoading(459): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:788][  2]LogStreaming: Display: FlushAsyncLoading(460): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:796][  3]LogStreaming: Display: FlushAsyncLoading(461): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:804][  4]LogStreaming: Display: FlushAsyncLoading(462): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:812][  5]LogStreaming: Display: FlushAsyncLoading(463): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:821][  6]LogStreaming: Display: FlushAsyncLoading(464): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:829][  7]LogStreaming: Display: FlushAsyncLoading(465): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:838][  8]LogStreaming: Display: FlushAsyncLoading(466): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:845][  9]LogStreaming: Display: FlushAsyncLoading(467): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:859][ 10]LogStreaming: Display: FlushAsyncLoading(468): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:871][ 11]LogStreaming: Display: FlushAsyncLoading(469): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:880][ 12]LogStreaming: Display: FlushAsyncLoading(470): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:891][ 13]LogStreaming: Display: FlushAsyncLoading(471): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:901][ 14]LogStreaming: Display: FlushAsyncLoading(472): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.43:915][ 15]LogStreaming: Display: FlushAsyncLoading(473): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.44:041][ 29]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.44:053][ 30]LogStreaming: Display: FlushAsyncLoading(475): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.44:065][ 31]LogStreaming: Display: FlushAsyncLoading(476): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.44:073][ 32]LogStreaming: Display: FlushAsyncLoading(477): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.44:084][ 33]LogStreaming: Display: FlushAsyncLoading(478): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.44:096][ 34]LogStreaming: Display: FlushAsyncLoading(479): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.44:108][ 35]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:134][ 36]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:141][ 37]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:150][ 38]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:158][ 39]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:166][ 40]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:175][ 41]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:182][ 42]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:191][ 43]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:200][ 44]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:208][ 45]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:224][ 46]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:243][ 47]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:262][ 48]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:280][ 49]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:299][ 50]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:316][ 51]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:336][ 52]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:343][ 53]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:351][ 54]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:360][ 55]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:368][ 56]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:376][ 57]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:385][ 58]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:393][ 59]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:402][ 60]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:410][ 61]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:418][ 62]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:426][ 63]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:435][ 64]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:443][ 65]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:451][ 66]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:460][ 67]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:468][ 68]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:476][ 69]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:485][ 70]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:493][ 71]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:501][ 72]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:510][ 73]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:518][ 74]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:526][ 75]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:534][ 76]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:651][ 88]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:681][ 89]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:699][ 90]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:717][ 91]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:735][ 92]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:754][ 93]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:761][ 94]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:770][ 95]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:778][ 96]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:787][ 97]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:795][ 98]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:805][ 99]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:812][100]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:820][101]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:828][102]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:837][103]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:845][104]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:853][105]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:862][106]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:870][107]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:878][108]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:887][109]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:896][110]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:903][111]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:912][112]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:920][113]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.44:928][114]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.46:910][349]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.46:939][350]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.46:946][351]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.46:953][352]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.46:962][353]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.46:970][354]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.46:978][355]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:431][402]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:456][403]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:465][404]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:472][405]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:481][406]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:490][407]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:498][408]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:506][409]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:833][448]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:860][449]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:868][450]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:877][451]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:886][452]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:894][453]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:902][454]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:910][455]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:919][456]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:926][457]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:936][458]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:943][459]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:953][460]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.47:972][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.12.02-11.13.48:061][461]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.12.02-11.13.48:064][461]LogSlate: Took 0.001696 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.12.02-11.13.48:775][461]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.02-11.13.48:797][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.02-11.13.48:810][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.02-11.13.48:823][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.12.02-11.13.50:951][563]LogStreaming: Display: FlushAsyncLoading(480): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.50:987][563]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/stone_mountian_01.fbx]
+[2025.12.02-11.13.51:747][563]LogSlate: Window 'Import Content' being destroyed
+[2025.12.02-11.13.51:775][563]LogInterchangeEngine: [Pending] Importing
+[2025.12.02-11.13.51:818][564]LogStreaming: Display: FlushAsyncLoading(481): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.51:845][565]LogStreaming: Display: FlushAsyncLoading(484): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.51:867][566]LogStreaming: Display: FlushAsyncLoading(485): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.13.51:891][567]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dumy_Data/stone_mountian_01_Anim.stone_mountian_01_Anim (Required Memory Estimate: 0.20 MB)
+[2025.12.02-11.13.51:891][567]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dumy_Data/stone_mountian_01_Anim.stone_mountian_01_Anim, at AnimationSequence/6789ed3e75a1473cecab603e059d0c2907775463
+[2025.12.02-11.13.51:900][567]LogSkeletalMesh: Building Skeletal Mesh stone_mountian_01...
+[2025.12.02-11.13.51:905][568]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Dumy_Data/stone_mountian_01.stone_mountian_01
+[2025.12.02-11.13.51:954][569]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.12.02-11.13.51:960][569]LogMaterial: Display: Material /Game/Dumy_Data/lambert3.lambert3 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.02-11.13.51:963][569]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.13.51:963][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.13.51:967][569]LogInterchangeEngine: Display: Interchange import completed [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/stone_mountian_01.fbx]
+[2025.12.02-11.13.51:967][569]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.02-11.13.51:967][569]LogInterchangeEngine: [Success] Import Done
+[2025.12.02-11.13.51:983][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.12.02-11.13.52:059][571]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.52:088][572]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.52:135][573]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.52:160][574]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.52:186][575]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.52:209][576]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.52:234][577]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.52:257][578]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.52:265][579]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.52:274][580]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.57:305][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.12.02-11.13.58:183][ 81]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.02-11.13.58:204][ 81]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Dumy_Data/stone_mountian_01_Anim.stone_mountian_01_Anim
+	Asset Type: AnimSequence
+	Asset Name: /Game/Dumy_Data/stone_mountian_01_Skeleton.stone_mountian_01_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Dumy_Data/stone_mountian_01_PhysicsAsset.stone_mountian_01_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Dumy_Data/lambert3.lambert3
+	Asset Type: Material
+[2025.12.02-11.13.58:426][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.02-11.13.58:437][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.02-11.13.58:448][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.12.02-11.13.58:454][ 81]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:500][ 83]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:726][110]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:750][111]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:758][112]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:765][113]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:774][114]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:781][115]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:790][116]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:798][117]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:807][118]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:815][119]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:823][120]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:832][121]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:840][122]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:848][123]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:857][124]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:865][125]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:873][126]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:882][127]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:890][128]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:899][129]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:907][130]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:915][131]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.58:923][132]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:037][145]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:071][146]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:088][147]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:097][148]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:105][149]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:113][150]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:122][151]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:130][152]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:138][153]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:147][154]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:155][155]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:163][156]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:172][157]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:180][158]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:188][159]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:197][160]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:205][161]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:228][162]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:247][163]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:265][164]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:283][165]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:301][166]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:319][167]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:338][168]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:346][169]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:354][170]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:362][171]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:370][172]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:379][173]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:387][174]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:396][175]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:404][176]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:532][190]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:564][191]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:586][192]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:594][193]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:603][194]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:612][195]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:620][196]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:628][197]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:636][198]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:644][199]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:652][200]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:661][201]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:669][202]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:677][203]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:685][204]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:694][205]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:713][206]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:732][207]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:749][208]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:768][209]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:788][210]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:826][211]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:869][215]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01
+[2025.12.02-11.13.59:869][215]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01
+[2025.12.02-11.13.59:869][215]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_1
+[2025.12.02-11.13.59:869][215]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:869][215]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_1
+[2025.12.02-11.13.59:869][215]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03
+[2025.12.02-11.13.59:869][215]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03
+[2025.12.02-11.13.59:869][215]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_2
+[2025.12.02-11.13.59:869][215]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:869][215]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_2
+[2025.12.02-11.13.59:869][215]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02
+[2025.12.02-11.13.59:869][215]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02
+[2025.12.02-11.13.59:870][215]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_3
+[2025.12.02-11.13.59:870][215]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.13.59:870][215]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_3
+[2025.12.02-11.14.00:330][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.02-11.14.00:331][268]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.12.02-11.14.00:343][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.12.02-11.14.00:344][268]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2025.12.02-11.14.00:354][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.12.02-11.14.00:355][268]LogEditorActor: Deleted 0 Actors (0.011 secs)
+[2025.12.02-11.14.00:359][268]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01
+[2025.12.02-11.14.00:359][268]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01
+[2025.12.02-11.14.00:360][268]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D3A702_2055760984
+[2025.12.02-11.14.00:360][268]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.14.00:360][268]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D3A702_2055760984
+[2025.12.02-11.14.00:360][268]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03
+[2025.12.02-11.14.00:360][268]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03
+[2025.12.02-11.14.00:361][268]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D3A702_2055761985
+[2025.12.02-11.14.00:361][268]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.14.00:361][268]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D3A702_2055761985
+[2025.12.02-11.14.00:361][268]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02
+[2025.12.02-11.14.00:361][268]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02
+[2025.12.02-11.14.00:362][268]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D3A702_2055762986
+[2025.12.02-11.14.00:362][268]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.14.00:362][268]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D3A702_2055762986
+[2025.12.02-11.14.03:274][583]Cmd: TRANSACTION UNDO
+[2025.12.02-11.14.03:274][583]LogEditorTransaction: Undo Place Objects
+[2025.12.02-11.14.04:048][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.02-11.14.04:095][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.12.02-11.14.04:109][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.12.02-11.14.04:122][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.12.02-11.14.04:141][621]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/2T/IOR9O5TR272W1FG4PVTV35
+[2025.12.02-11.14.04:141][621]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/IOR9O5TR272W1FG4PVTV35D2962D2C4D1E5B78BA43DFBF434302D4.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/2T/IOR9O5TR272W1FG4PVTV35.uasset'
+[2025.12.02-11.14.04:154][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.468 ms
+[2025.12.02-11.14.04:195][621]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.02-11.14.04:195][621]LogContentValidation: Enabled validators:
+[2025.12.02-11.14.04:195][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.02-11.14.04:195][621]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.02-11.14.04:195][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.02-11.14.04:195][621]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.02-11.14.04:195][621]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.02-11.14.04:195][621]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.02-11.14.04:195][621]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.12.02-11.14.04:221][621]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: ================================================
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Total job queries 577, among them cache hits 145 (25.13%), DDC hits 316 (54.77%), Duplicates 89 (15.42%)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Tracking 343 distinct input hashes that result in 240 distinct outputs (69.97%)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: RAM used: 3.30 MiB of 1.60 GiB budget. Usage: 0.20%
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Shaders Compiled: 27
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Jobs assigned 27, completed 27 (100%)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.10 s
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Job execution time: average 1.43 s, max 1.78 s
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Job life time (pending + execution): average 1.51 s, max 1.88
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Shader code size: total 237.739 KiB, numShaders 27, average 8.805 KiB, min 4.367 KiB, max 11.296 KiB
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.88 s
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.09%
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.93 jobs/batch
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Average processing rate: 14.33 jobs/sec
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Total thread time: 14.47 s
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Total thread preprocess time: 6.476 s
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Percentage time preprocessing: 44.75%
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Effective parallelization: 7.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.480136
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    6 times, average 0.79 sec, max 0.88 sec, min 0.63 sec)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 0.68 sec, max 0.74 sec, min 0.63 sec)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.66 sec, max 0.80 sec, min 0.53 sec)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 0.43 sec, max 0.46 sec, min 0.38 sec)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.39 sec, max 0.45 sec, min 0.33 sec)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display:                                             FDebugViewModePS - 32.70% of total time (compiled    6 times, average 0.79 sec, max 0.88 sec, min 0.63 sec)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 17.89% of total time (compiled    6 times, average 0.43 sec, max 0.46 sec, min 0.38 sec)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.27% of total time (compiled    6 times, average 0.39 sec, max 0.45 sec, min 0.33 sec)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 14.04% of total time (compiled    3 times, average 0.68 sec, max 0.74 sec, min 0.63 sec)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.74% of total time (compiled    3 times, average 0.66 sec, max 0.80 sec, min 0.53 sec)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: === Material stats ===
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Materials Translated:    158
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Material Translation Only: 0.03 s (40%)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2025.12.02-11.14.55:017][424]LogShaderCompilers: Display: ================================================
+[2025.12.02-11.15.20:324][571]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.20:349][572]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.23:071][634]LogStreaming: Display: FlushAsyncLoading(486): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.15.23:104][634]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/stone_mountian_04.fbx]
+[2025.12.02-11.15.24:101][634]LogSlate: Window 'Import Content' being destroyed
+[2025.12.02-11.15.24:124][634]LogInterchangeEngine: [Pending] Importing
+[2025.12.02-11.15.24:168][635]LogStreaming: Display: FlushAsyncLoading(488): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.15.24:197][636]LogStreaming: Display: FlushAsyncLoading(491): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.15.24:221][637]LogStreaming: Display: FlushAsyncLoading(492): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.15.24:242][638]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dumy_Data/stone_mountian_04_Anim.stone_mountian_04_Anim (Required Memory Estimate: 0.20 MB)
+[2025.12.02-11.15.24:242][638]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dumy_Data/stone_mountian_04_Anim.stone_mountian_04_Anim, at AnimationSequence/3d7f7625f346776d351f88bb3707e5e7b15ebe09
+[2025.12.02-11.15.24:296][638]LogSkeletalMesh: Building Skeletal Mesh stone_mountian_04...
+[2025.12.02-11.15.24:301][639]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Dumy_Data/stone_mountian_04.stone_mountian_04
+[2025.12.02-11.15.24:378][640]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.12.02-11.15.24:386][640]LogMaterial: Display: Material /Game/Dumy_Data/lambert3.lambert3 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.02-11.15.24:388][640]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.15.24:388][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.15.24:393][640]LogInterchangeEngine: Display: Interchange import completed [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/stone_mountian_04.fbx]
+[2025.12.02-11.15.24:393][640]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.12.02-11.15.24:393][640]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.12.02-11.15.24:393][640]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/stone_mountian_05.fbx]
+[2025.12.02-11.15.24:408][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.02-11.15.24:441][642]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.12.02-11.15.24:518][643]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.24:561][643]LogStreaming: Display: FlushAsyncLoading(493): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.15.24:568][644]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.12.02-11.15.24:603][644]LogStreaming: Display: FlushAsyncLoading(495): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.15.24:604][645]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.24:606][645]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.24:608][645]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.24:619][645]LogStreaming: Display: FlushAsyncLoading(496): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.15.24:632][646]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.24:640][646]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dumy_Data/stone_mountian_05_Anim.stone_mountian_05_Anim (Required Memory Estimate: 0.20 MB)
+[2025.12.02-11.15.24:640][646]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dumy_Data/stone_mountian_05_Anim.stone_mountian_05_Anim, at AnimationSequence/c20e0e50eddc8e641f03d2406bc6ed312489d58d
+[2025.12.02-11.15.24:644][646]LogSkeletalMesh: Building Skeletal Mesh stone_mountian_05...
+[2025.12.02-11.15.24:645][647]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.24:645][647]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Dumy_Data/stone_mountian_05.stone_mountian_05
+[2025.12.02-11.15.24:670][647]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.12.02-11.15.24:682][647]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.15.24:682][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.15.24:685][647]LogInterchangeEngine: Display: Interchange import completed [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/stone_mountian_05.fbx]
+[2025.12.02-11.15.24:685][647]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.02-11.15.24:685][647]LogInterchangeEngine: [Success] Import Done
+[2025.12.02-11.15.24:716][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.12.02-11.15.24:761][650]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.12.02-11.15.24:772][651]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.12.02-11.15.29:883][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.02-11.15.30:879][164]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.02-11.15.30:898][164]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Dumy_Data/lambert3.lambert3
+	Asset Type: Material
+	Asset Name: /Game/Dumy_Data/stone_mountian_04_PhysicsAsset.stone_mountian_04_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Dumy_Data/stone_mountian_04_Skeleton.stone_mountian_04_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Dumy_Data/stone_mountian_04_Anim.stone_mountian_04_Anim
+	Asset Type: AnimSequence
+	Asset Name: /Game/Dumy_Data/stone_mountian_05_PhysicsAsset.stone_mountian_05_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Dumy_Data/stone_mountian_05_Skeleton.stone_mountian_05_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Dumy_Data/stone_mountian_05_Anim.stone_mountian_05_Anim
+	Asset Type: AnimSequence
+[2025.12.02-11.15.31:272][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.12.02-11.15.31:284][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.02-11.15.31:295][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.12.02-11.15.31:298][164]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:312][164]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:332][166]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:338][167]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:547][192]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:572][193]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:645][202]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:673][203]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:680][204]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:687][205]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:695][206]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:704][207]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:712][208]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:721][209]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:921][233]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:945][234]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:951][235]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:958][236]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:966][237]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:975][238]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:983][239]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.31:992][240]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:000][241]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:008][242]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:017][243]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:024][244]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:033][245]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:041][246]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:050][247]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:058][248]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:066][249]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:075][250]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:083][251]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:091][252]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:103][253]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:115][254]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:134][255]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:153][256]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:161][257]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:168][258]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:178][259]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:185][260]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:670][314]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:698][315]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:703][316]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:711][317]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:720][318]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:727][319]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:736][320]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:744][321]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:927][343]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:958][344]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:978][345]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.32:997][346]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:111][357]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:142][358]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:160][359]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:167][360]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:176][361]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:184][362]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:193][363]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:201][364]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:209][365]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:218][366]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:226][367]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:234][368]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:243][369]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:251][370]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:258][371]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:268][372]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:275][373]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:284][374]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:292][375]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:312][376]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:330][377]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:348][378]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:366][379]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:385][380]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:505][392]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:536][393]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:553][394]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:573][395]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:592][396]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:611][397]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:619][398]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:626][399]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:635][400]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:643][401]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:652][402]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:660][403]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:668][404]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:676][405]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:685][406]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:694][407]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:702][408]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:710][409]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:741][410]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:793][413]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05
+[2025.12.02-11.15.33:793][413]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05
+[2025.12.02-11.15.33:793][413]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_4
+[2025.12.02-11.15.33:793][413]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:793][413]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_4
+[2025.12.02-11.15.33:793][413]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04
+[2025.12.02-11.15.33:793][413]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04
+[2025.12.02-11.15.33:793][413]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_5
+[2025.12.02-11.15.33:793][413]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:793][413]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_5
+[2025.12.02-11.15.33:793][413]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03
+[2025.12.02-11.15.33:794][413]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03
+[2025.12.02-11.15.33:794][413]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_6
+[2025.12.02-11.15.33:794][413]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:794][413]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_6
+[2025.12.02-11.15.33:794][413]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02
+[2025.12.02-11.15.33:794][413]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02
+[2025.12.02-11.15.33:794][413]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_7
+[2025.12.02-11.15.33:794][413]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:794][413]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_7
+[2025.12.02-11.15.33:794][413]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01
+[2025.12.02-11.15.33:794][413]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01
+[2025.12.02-11.15.33:794][413]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_8
+[2025.12.02-11.15.33:794][413]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.33:794][413]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_8
+[2025.12.02-11.15.34:210][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.02-11.15.34:211][461]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.12.02-11.15.34:222][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.02-11.15.34:223][461]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2025.12.02-11.15.34:235][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.12.02-11.15.34:235][461]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2025.12.02-11.15.34:247][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.12.02-11.15.34:248][461]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2025.12.02-11.15.34:258][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.12.02-11.15.34:260][461]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2025.12.02-11.15.34:264][461]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05
+[2025.12.02-11.15.34:264][461]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05
+[2025.12.02-11.15.34:265][461]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D4A702_1075924163
+[2025.12.02-11.15.34:265][461]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.34:265][461]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D4A702_1075924163
+[2025.12.02-11.15.34:265][461]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04
+[2025.12.02-11.15.34:265][461]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04
+[2025.12.02-11.15.34:265][461]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D4A702_1075925164
+[2025.12.02-11.15.34:265][461]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.34:265][461]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D4A702_1075925164
+[2025.12.02-11.15.34:266][461]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03
+[2025.12.02-11.15.34:266][461]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03
+[2025.12.02-11.15.34:266][461]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D4A702_1075926165
+[2025.12.02-11.15.34:266][461]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.34:266][461]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D4A702_1075926165
+[2025.12.02-11.15.34:267][461]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02
+[2025.12.02-11.15.34:267][461]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02
+[2025.12.02-11.15.34:267][461]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D4A702_1075927166
+[2025.12.02-11.15.34:267][461]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.34:267][461]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D4A702_1075927166
+[2025.12.02-11.15.34:267][461]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01
+[2025.12.02-11.15.34:267][461]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01
+[2025.12.02-11.15.34:269][461]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D4A702_1075927167
+[2025.12.02-11.15.34:269][461]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.15.34:269][461]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 as actor: SkeletalMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.SkeletalMeshActor_UAID_10FFE0834151D4A702_1075927167
+[2025.12.02-11.15.39:558][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.02-11.15.39:600][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.02-11.15.39:611][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.12.02-11.15.39:623][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.12.02-11.15.39:631][ 68]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/WM/09K0U05SHMW952H3656FAI
+[2025.12.02-11.15.39:631][ 68]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/09K0U05SHMW952H3656FAI92909F704B298579106414BE24A10A02.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/WM/09K0U05SHMW952H3656FAI.uasset'
+[2025.12.02-11.15.39:637][ 68]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/HN/24T53TKKBRROL5VKAA6VA5
+[2025.12.02-11.15.39:637][ 68]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/24T53TKKBRROL5VKAA6VA57AD13205450BCFCAAC2D13BB95D6F090.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/HN/24T53TKKBRROL5VKAA6VA5.uasset'
+[2025.12.02-11.15.39:643][ 68]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/PH/G39BM6DRXY3PCR7K8G1QRI
+[2025.12.02-11.15.39:643][ 68]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/G39BM6DRXY3PCR7K8G1QRIE1D3C5AE4DFC3A7BCD7C268886FC27DB.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/PH/G39BM6DRXY3PCR7K8G1QRI.uasset'
+[2025.12.02-11.15.39:649][ 68]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/4E/P9A353CENSPQVNZ6E3W0JS
+[2025.12.02-11.15.39:649][ 68]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/P9A353CENSPQVNZ6E3W0JS7DCABFDA40D9232366F10BB265A4C3B5.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/4E/P9A353CENSPQVNZ6E3W0JS.uasset'
+[2025.12.02-11.15.39:655][ 68]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/3D/DJUSUBUS3TA11ZHGO79RFP
+[2025.12.02-11.15.39:655][ 68]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/DJUSUBUS3TA11ZHGO79RFP0A121A8B48FFF04135DB85A2699CA319.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/3D/DJUSUBUS3TA11ZHGO79RFP.uasset'
+[2025.12.02-11.15.39:670][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.670 ms (total: 217.138 ms)
+[2025.12.02-11.15.39:707][ 68]LogContentValidation: Display: Starting to validate 5 assets
+[2025.12.02-11.15.39:707][ 68]LogContentValidation: Enabled validators:
+[2025.12.02-11.15.39:707][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.02-11.15.39:707][ 68]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.02-11.15.39:707][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.02-11.15.39:707][ 68]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.02-11.15.39:707][ 68]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.02-11.15.39:707][ 68]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.02-11.15.39:707][ 68]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.12.02-11.15.39:797][ 68]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.02-11.16.44:638][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.12.02-11.16.45:359][466]LogSlate: Window 'Save Content' being destroyed
+[2025.12.02-11.16.45:386][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.02-11.16.45:412][466]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dumy_Data/stone_mountian_01] ([1] browsable assets)...
+[2025.12.02-11.16.45:412][466]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.45:441][466]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01]
+[2025.12.02-11.16.45:441][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dumy_Data/stone_mountian_01]
+[2025.12.02-11.16.45:441][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dumy_Data/stone_mountian_01" FILE="D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/Dumy_Data/stone_mountian_01.uasset" SILENT=true
+[2025.12.02-11.16.45:452][466]LogSavePackage: Moving output files for package: /Game/Dumy_Data/stone_mountian_01
+[2025.12.02-11.16.45:452][466]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/stone_mountian_010B8F1D0D436DDDFC1CB95EB790B1D510.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/Dumy_Data/stone_mountian_01.uasset'
+[2025.12.02-11.16.45:458][466]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/3D/DJUSUBUS3TA11ZHGO79RFP
+[2025.12.02-11.16.45:459][466]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/DJUSUBUS3TA11ZHGO79RFP627F5D7548FDEB388FD52C87BB309A53.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/3D/DJUSUBUS3TA11ZHGO79RFP.uasset'
+[2025.12.02-11.16.45:459][466]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dumy_Data/stone_mountian_02] ([1] browsable assets)...
+[2025.12.02-11.16.45:460][466]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.45:464][466]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02]
+[2025.12.02-11.16.45:464][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dumy_Data/stone_mountian_02]
+[2025.12.02-11.16.45:464][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dumy_Data/stone_mountian_02" FILE="D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/Dumy_Data/stone_mountian_02.uasset" SILENT=true
+[2025.12.02-11.16.45:473][466]LogSavePackage: Moving output files for package: /Game/Dumy_Data/stone_mountian_02
+[2025.12.02-11.16.45:473][466]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/stone_mountian_0239BF291D49851CD5148901A622C16C47.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/Dumy_Data/stone_mountian_02.uasset'
+[2025.12.02-11.16.45:479][466]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/4E/P9A353CENSPQVNZ6E3W0JS
+[2025.12.02-11.16.45:479][466]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/P9A353CENSPQVNZ6E3W0JSFBB4B4F945CDBED16D100494B0133A07.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/4E/P9A353CENSPQVNZ6E3W0JS.uasset'
+[2025.12.02-11.16.45:480][466]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dumy_Data/stone_mountian_03] ([1] browsable assets)...
+[2025.12.02-11.16.45:480][466]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.45:485][466]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03]
+[2025.12.02-11.16.45:485][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dumy_Data/stone_mountian_03]
+[2025.12.02-11.16.45:485][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dumy_Data/stone_mountian_03" FILE="D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/Dumy_Data/stone_mountian_03.uasset" SILENT=true
+[2025.12.02-11.16.45:495][466]LogSavePackage: Moving output files for package: /Game/Dumy_Data/stone_mountian_03
+[2025.12.02-11.16.45:495][466]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/stone_mountian_03290FF5E742451DC5B4815FBA8DE6D4D1.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/Dumy_Data/stone_mountian_03.uasset'
+[2025.12.02-11.16.45:500][466]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/PH/G39BM6DRXY3PCR7K8G1QRI
+[2025.12.02-11.16.45:501][466]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/G39BM6DRXY3PCR7K8G1QRI0BEBDCC242CFA11D2DB4C18BF553EB5C.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/PH/G39BM6DRXY3PCR7K8G1QRI.uasset'
+[2025.12.02-11.16.45:502][466]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dumy_Data/stone_mountian_04] ([1] browsable assets)...
+[2025.12.02-11.16.45:502][466]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.45:506][466]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04]
+[2025.12.02-11.16.45:506][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dumy_Data/stone_mountian_04]
+[2025.12.02-11.16.45:506][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dumy_Data/stone_mountian_04" FILE="D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/Dumy_Data/stone_mountian_04.uasset" SILENT=true
+[2025.12.02-11.16.45:517][466]LogSavePackage: Moving output files for package: /Game/Dumy_Data/stone_mountian_04
+[2025.12.02-11.16.45:517][466]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/stone_mountian_04877A3CD74B2FCE11FCCFB68194C8D9B1.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/Dumy_Data/stone_mountian_04.uasset'
+[2025.12.02-11.16.45:522][466]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/HN/24T53TKKBRROL5VKAA6VA5
+[2025.12.02-11.16.45:522][466]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/24T53TKKBRROL5VKAA6VA59E15F72B424F59A7080126891CB13944.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/HN/24T53TKKBRROL5VKAA6VA5.uasset'
+[2025.12.02-11.16.45:523][466]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dumy_Data/stone_mountian_05] ([1] browsable assets)...
+[2025.12.02-11.16.45:523][466]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.45:527][466]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05]
+[2025.12.02-11.16.45:527][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dumy_Data/stone_mountian_05]
+[2025.12.02-11.16.45:527][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dumy_Data/stone_mountian_05" FILE="D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/Dumy_Data/stone_mountian_05.uasset" SILENT=true
+[2025.12.02-11.16.45:535][466]LogSavePackage: Moving output files for package: /Game/Dumy_Data/stone_mountian_05
+[2025.12.02-11.16.45:535][466]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/stone_mountian_0595A77AEB46789064A58C8D8307541BE7.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/Dumy_Data/stone_mountian_05.uasset'
+[2025.12.02-11.16.45:550][466]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/WM/09K0U05SHMW952H3656FAI
+[2025.12.02-11.16.45:550][466]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/09K0U05SHMW952H3656FAIC3FFF0854C34DE44422CD4AF12043EF4.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/WM/09K0U05SHMW952H3656FAI.uasset'
+[2025.12.02-11.16.45:561][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.401 ms (total: 391.540 ms)
+[2025.12.02-11.16.45:594][466]LogContentValidation: Display: Starting to validate 10 assets
+[2025.12.02-11.16.45:594][466]LogContentValidation: Enabled validators:
+[2025.12.02-11.16.45:594][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.02-11.16.45:594][466]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.02-11.16.45:594][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.02-11.16.45:594][466]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.02-11.16.45:594][466]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.02-11.16.45:594][466]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.02-11.16.45:595][466]AssetCheck: /Game/Dumy_Data/stone_mountian_01 Validating asset
+[2025.12.02-11.16.45:595][466]AssetCheck: Error: [AssetLog] D:\Users\User\Documents\GitHub\Background_Team_04\team\Background_Team_04\Content\Dumy_Data\stone_mountian_01.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2025.12.02-11.16.45:595][466]AssetCheck: /Game/Dumy_Data/stone_mountian_02 Validating asset
+[2025.12.02-11.16.45:595][466]AssetCheck: Error: [AssetLog] D:\Users\User\Documents\GitHub\Background_Team_04\team\Background_Team_04\Content\Dumy_Data\stone_mountian_02.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2025.12.02-11.16.45:595][466]AssetCheck: /Game/Dumy_Data/stone_mountian_03 Validating asset
+[2025.12.02-11.16.45:595][466]AssetCheck: Error: [AssetLog] D:\Users\User\Documents\GitHub\Background_Team_04\team\Background_Team_04\Content\Dumy_Data\stone_mountian_03.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2025.12.02-11.16.45:595][466]AssetCheck: /Game/Dumy_Data/stone_mountian_04 Validating asset
+[2025.12.02-11.16.45:595][466]AssetCheck: Error: [AssetLog] D:\Users\User\Documents\GitHub\Background_Team_04\team\Background_Team_04\Content\Dumy_Data\stone_mountian_04.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2025.12.02-11.16.45:595][466]AssetCheck: /Game/Dumy_Data/stone_mountian_05 Validating asset
+[2025.12.02-11.16.45:595][466]AssetCheck: Error: [AssetLog] D:\Users\User\Documents\GitHub\Background_Team_04\team\Background_Team_04\Content\Dumy_Data\stone_mountian_05.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2025.12.02-11.16.45:595][466]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.12.02-11.16.45:671][466]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.02-11.16.45:698][468]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.45:700][468]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.45:702][468]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.45:704][468]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.45:725][469]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:151][846]LogSlate: Window 'Message Log' being destroyed
+[2025.12.02-11.16.49:160][846]LogSlate: Window 'Message Log' being destroyed
+[2025.12.02-11.16.49:315][864]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:344][865]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:352][866]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:359][867]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:368][868]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:376][869]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:384][870]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:393][871]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:401][872]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:410][873]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:419][874]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:426][875]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:435][876]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:444][877]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:452][878]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:460][879]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:468][880]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:476][881]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:485][882]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:493][883]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:501][884]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:510][885]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:518][886]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:793][919]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:822][920]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:828][921]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:837][922]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:845][923]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:853][924]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:862][925]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:870][926]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:878][927]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:887][928]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:895][929]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:904][930]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:912][931]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:920][932]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:928][933]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:936][934]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:945][935]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:953][936]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:962][937]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:970][938]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:984][939]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.49:995][940]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.50:016][941]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.16.50:279][969]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 658.537598
+[2025.12.02-11.16.50:521][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.02-11.16.50:521][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 658.771240, Update Interval: 319.951782
+[2025.12.02-11.16.50:646][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.12.02-11.22.15:867][178]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 984.126892
+[2025.12.02-11.22.16:867][182]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.02-11.22.16:867][182]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 984.793701, Update Interval: 306.670746
+[2025.12.02-11.23.50:287][532]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:315][533]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:321][534]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:697][579]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:746][580]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:753][581]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:762][582]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:769][583]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:776][584]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:785][585]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:793][586]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:802][587]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:811][588]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:824][589]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:835][590]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:855][591]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:864][592]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:872][593]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:880][594]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:888][595]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:897][596]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:906][597]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:913][598]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:922][599]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:930][600]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:939][601]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:947][602]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.50:955][603]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:067][615]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_01.stone_mountian_01 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:101][616]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_02.stone_mountian_02 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:108][617]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:118][618]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:126][619]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_03.stone_mountian_03 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:134][620]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:143][621]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_04.stone_mountian_04 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:150][622]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:158][623]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:167][624]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:176][625]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:184][626]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:192][627]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:201][628]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:209][629]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:217][630]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:226][631]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:249][632]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:268][633]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:286][634]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:304][635]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:323][636]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:340][637]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.51:451][647]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Dumy_Data/stone_mountian_05.stone_mountian_05 has no skeleton. This needs to fixed before an animation can be set
+[2025.12.02-11.23.52:187][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.12.02-11.23.53:161][730]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.02-11.23.53:205][730]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Dumy_Data/stone_mountian_01.stone_mountian_01
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Dumy_Data/stone_mountian_02.stone_mountian_02
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Dumy_Data/stone_mountian_03.stone_mountian_03
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Dumy_Data/stone_mountian_04.stone_mountian_04
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Dumy_Data/stone_mountian_05.stone_mountian_05
+	Asset Type: SkeletalMesh
+[2025.12.02-11.23.53:379][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.02-11.23.53:391][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.12.02-11.23.53:402][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.12.02-11.41.53:246][913]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=스피커(3- Pebble V3), InstanceID=1
+[2025.12.02-11.41.53:246][913]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{01d73f95-d98b-40a3-997f-7201dc908cb6}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.12.02-11.41.58:231][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.41.58:231][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.41.58:231][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.42.03:232][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.42.03:232][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.42.03:232][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.42.08:232][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.42.08:232][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.42.08:232][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.42.13:233][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.42.13:233][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.42.13:233][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.42.18:233][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.42.18:233][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.42.18:233][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.42.23:233][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.42.23:233][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.42.23:233][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.42.28:234][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.42.28:234][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.42.28:234][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.42.33:234][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.42.33:234][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.42.33:234][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.42.38:234][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.42.38:234][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.42.38:234][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.42.43:236][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.42.43:236][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.42.43:236][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.42.48:237][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.42.48:237][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.42.48:237][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.42.53:237][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.42.53:237][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.42.53:237][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.42.58:238][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.42.58:238][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.42.58:238][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.43.03:240][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.43.03:240][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.43.03:240][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.43.08:240][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.43.08:240][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.43.08:240][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.43.13:240][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.43.13:240][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.43.13:240][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.43.18:241][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.43.18:241][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.43.18:241][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.43.23:242][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.43.23:242][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.43.23:242][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.43.28:242][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.43.28:242][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.43.28:242][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.43.33:242][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.43.33:242][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.43.33:242][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.43.34:040][913]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - (Keyboard).
+[2025.12.02-11.43.34:056][913]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - 한컴 입력기 (TSF IME).
+[2025.12.02-11.43.38:243][913]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.12.02-11.43.38:243][913]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.12.02-11.43.38:243][913]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.12.02-11.43.39:805][913]LogStreaming: Display: FlushAsyncLoading(497): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.43.39:851][913]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/Stone_Mountian.obj]
+[2025.12.02-11.43.41:187][913]LogSlate: Window 'Import Content' being destroyed
+[2025.12.02-11.43.41:208][913]LogInterchangeEngine: [Pending] Importing
+[2025.12.02-11.43.41:211][913]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{01d73f95-d98b-40a3-997f-7201dc908cb6}]
+[2025.12.02-11.43.41:211][913]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.12.02-11.43.41:211][913]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.12.02-11.43.41:242][914]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{01d73f95-d98b-40a3-997f-7201dc908cb6}, Name=스피커(3- Pebble V3)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.14
+[2025.12.02-11.43.41:243][914]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.12.02-11.43.41:243][914]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.12.02-11.43.41:245][914]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.02-11.43.41:303][915]LogStreaming: Display: FlushAsyncLoading(498): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-11.43.41:336][917]LogStaticMesh: Display: Building static mesh Stone_Mountian (Required Memory Estimate: 4.711476 MB)...
+[2025.12.02-11.43.41:348][917]LogStaticMesh: Adjacency [0.00s], tris: 3135, UVs 1
+[2025.12.02-11.43.41:356][917]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.12.02-11.43.41:356][917]LogStaticMesh: Leaves [0.00s]
+[2025.12.02-11.43.41:453][918]LogStaticMesh: Reduce [0.10s]
+[2025.12.02-11.43.41:473][919]LogStaticMesh: Fallback [0.02s], num tris: 2756
+[2025.12.02-11.43.41:513][921]LogStaticMesh: Fallback [0.04s], num tris: 1942
+[2025.12.02-11.43.41:516][921]LogStaticMesh: ConstrainClusters:
+[2025.12.02-11.43.41:516][921]LogStaticMesh:   Input: 52 Clusters, 6537 Triangles and 9947 Vertices
+[2025.12.02-11.43.41:516][921]LogStaticMesh:   Output without splits: 52 Clusters, 6537 Triangles and 9951 Vertices
+[2025.12.02-11.43.41:516][921]LogStaticMesh:   Output with splits: 56 Clusters, 6537 Triangles and 9964 Vertices
+[2025.12.02-11.43.41:516][921]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 56, Slow Path Clusters: 0, 1 Material: 56, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.02-11.43.41:518][921]LogStaticMesh: WritePages:
+[2025.12.02-11.43.41:518][921]LogStaticMesh:   Root: GPU size: 31604 bytes. 1 Pages. 31604.000 bytes per page (96.448% utilization).
+[2025.12.02-11.43.41:518][921]LogStaticMesh:   Streaming: GPU size: 99272 bytes. 1 Pages (1 with relative encoding). 99272.000 bytes per page (75.739% utilization).
+[2025.12.02-11.43.41:518][921]LogStaticMesh:   Page data disk size: 102900 bytes. Fixup data size: 248 bytes.
+[2025.12.02-11.43.41:518][921]LogStaticMesh:   Total GPU size: 130876 bytes, Total disk size: 103148 bytes.
+[2025.12.02-11.43.41:518][921]LogStaticMesh: Encode [0.00s]
+[2025.12.02-11.43.41:518][921]LogStaticMesh: NaniteBuild [0.17s]
+[2025.12.02-11.43.41:608][924]LogStaticMesh: Built static mesh [0.27s] /Game/Dumy_Data/Stone_Mountian.Stone_Mountian
+[2025.12.02-11.43.41:622][925]LogStaticMesh: Warning: Stone_Mountian has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.02-11.43.41:622][925]LogStaticMesh: Warning: Stone_Mountian has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.02-11.43.41:632][926]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-234.994 Y=-761.881 Z=-212.927, BoxExtent=(X=1299.462 Y=1010.212 Z=1645.778), SphereRadius=(2427.457031)) and MeshDescription Bounds (Origin=X=-245.534 Y=-712.022 Z=-239.997, BoxExtent=(X=1284.071 Y=874.215 Z=1613.795), SphereRadius=(1916.023228)) is significative for StaticMesh /Game/Dumy_Data/Stone_Mountian.Stone_Mountian
+[2025.12.02-11.43.41:963][927]LogInterchangeEngine: Display: Interchange import completed [C:/Users/User/Desktop/윤진서/2-2_CK/배경심화/기말_더미/Stone_Mountian.obj]
+[2025.12.02-11.43.41:963][927]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.02-11.43.41:963][927]LogInterchangeEngine: [Success] Import Done
+[2025.12.02-11.43.41:965][928]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-234.994 Y=-761.881 Z=-212.927, BoxExtent=(X=1299.462 Y=1010.212 Z=1645.778), SphereRadius=(2427.457031)) and MeshDescription Bounds (Origin=X=-245.534 Y=-712.022 Z=-239.997, BoxExtent=(X=1284.071 Y=874.215 Z=1613.795), SphereRadius=(1916.023228)) is significative for StaticMesh /Game/Dumy_Data/Stone_Mountian.Stone_Mountian
+[2025.12.02-11.43.43:811][121]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dumy_Data/Stone_Mountian.Stone_Mountian
+[2025.12.02-11.43.43:811][121]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dumy_Data/Stone_Mountian.Stone_Mountian
+[2025.12.02-11.43.43:820][121]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dumy_Data/Stone_Mountian.Stone_Mountian as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_1
+[2025.12.02-11.43.44:249][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.12.02-11.43.44:251][169]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.12.02-11.43.44:256][169]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dumy_Data/Stone_Mountian.Stone_Mountian
+[2025.12.02-11.43.44:256][169]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dumy_Data/Stone_Mountian.Stone_Mountian
+[2025.12.02-11.43.44:257][169]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dumy_Data/Stone_Mountian.Stone_Mountian as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_10FFE0834151D5A702_1692174344
+[2025.12.02-11.43.54:480][334]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2282.744873
+[2025.12.02-11.43.54:713][362]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.02-11.43.54:713][362]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2282.970459, Update Interval: 318.384338
+[2025.12.02-11.44.01:485][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.02-11.44.01:521][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/3D/DJUSUBUS3TA11ZHGO79RFP
+[2025.12.02-11.44.01:521][154]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/DJUSUBUS3TA11ZHGO79RFPEE919B214C765798F2D136B6A58C8AC1.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/3D/DJUSUBUS3TA11ZHGO79RFP.uasset'
+[2025.12.02-11.44.01:530][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/PH/G39BM6DRXY3PCR7K8G1QRI
+[2025.12.02-11.44.01:531][154]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/G39BM6DRXY3PCR7K8G1QRID1B5B7CD4D87B28F286C44B252431491.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/PH/G39BM6DRXY3PCR7K8G1QRI.uasset'
+[2025.12.02-11.44.01:538][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/4E/P9A353CENSPQVNZ6E3W0JS
+[2025.12.02-11.44.01:539][154]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/P9A353CENSPQVNZ6E3W0JS0E67F47A4AC6C31DF31344B58AAB23A3.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/4E/P9A353CENSPQVNZ6E3W0JS.uasset'
+[2025.12.02-11.44.01:546][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/WM/09K0U05SHMW952H3656FAI
+[2025.12.02-11.44.01:547][154]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/09K0U05SHMW952H3656FAIAE0EB3D6421CB243645C8AAF9614F071.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/WM/09K0U05SHMW952H3656FAI.uasset'
+[2025.12.02-11.44.01:555][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/HN/24T53TKKBRROL5VKAA6VA5
+[2025.12.02-11.44.01:555][154]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/24T53TKKBRROL5VKAA6VA5EEFD56E949ABCAC38504B0AD2597B495.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/HN/24T53TKKBRROL5VKAA6VA5.uasset'
+[2025.12.02-11.44.01:564][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/OI/9DCZAO5VC0F4VCCRFG1I0B
+[2025.12.02-11.44.01:564][154]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/9DCZAO5VC0F4VCCRFG1I0B2BCC1C124D831A2B3E44A9AC40F905BC.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/OI/9DCZAO5VC0F4VCCRFG1I0B.uasset'
+[2025.12.02-11.44.01:575][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.684 ms (total: 482.224 ms)
+[2025.12.02-11.44.01:615][154]LogContentValidation: Display: Starting to validate 6 assets
+[2025.12.02-11.44.01:615][154]LogContentValidation: Enabled validators:
+[2025.12.02-11.44.01:615][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.02-11.44.01:615][154]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.02-11.44.01:615][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.02-11.44.01:615][154]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.02-11.44.01:615][154]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.02-11.44.01:615][154]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.02-11.44.01:615][154]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.12.02-11.44.01:674][154]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.02-11.44.04:906][541]LogSlate: Window 'Message Log' being destroyed
+[2025.12.02-11.44.04:915][541]LogSlate: Window 'Message Log' being destroyed
+[2025.12.02-11.44.07:426][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.12.02-11.44.07:987][837]LogSlate: Window 'Save Content' being destroyed
+[2025.12.02-11.44.08:016][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.02-11.44.08:051][837]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dumy_Data/Stone_Mountian] ([1] browsable assets)...
+[2025.12.02-11.44.08:082][837]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Dumy_Data/Stone_Mountian.Stone_Mountian]
+[2025.12.02-11.44.08:082][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dumy_Data/Stone_Mountian]
+[2025.12.02-11.44.08:082][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dumy_Data/Stone_Mountian" FILE="D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/Dumy_Data/Stone_Mountian.uasset" SILENT=true
+[2025.12.02-11.44.08:093][837]LogSavePackage: Moving output files for package: /Game/Dumy_Data/Stone_Mountian
+[2025.12.02-11.44.08:093][837]LogSavePackage: Moving 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/Stone_MountianC416FA9743923943C8F6F4817C430DAB.tmp' to 'D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Content/Dumy_Data/Stone_Mountian.uasset'
+[2025.12.02-11.44.08:105][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.960 ms (total: 571.185 ms)
+[2025.12.02-11.44.08:137][837]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.02-11.44.08:137][837]LogContentValidation: Enabled validators:
+[2025.12.02-11.44.08:137][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.02-11.44.08:137][837]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.02-11.44.08:137][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.02-11.44.08:137][837]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.02-11.44.08:137][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.02-11.44.08:137][837]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.02-11.44.08:137][837]AssetCheck: /Game/Dumy_Data/Stone_Mountian Validating asset
+[2025.12.02-11.44.08:153][837]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Users/User/Documents/GitHub/Background_Team_04/team/Background_Team_04/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.02-11.44.09:761][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.12.02-11.44.09:790][ 17]LogStall: Shutdown...
+[2025.12.02-11.44.09:790][ 17]LogStall: Shutdown complete.
+[2025.12.02-11.44.09:808][ 17]LogSlate: Window 'Background_Team_04 - Unreal Editor' being destroyed
+[2025.12.02-11.44.09:810][ 17]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - 한컴 입력기 (TSF IME).
+[2025.12.02-11.44.09:865][ 18]Cmd: QUIT_EDITOR
+[2025.12.02-11.44.09:865][ 18]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.02-11.44.09:867][ 18]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.02-11.44.09:868][ 18]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.02-11.44.09:868][ 18]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.02-11.44.09:868][ 18]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:868][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:868][ 18]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.02-11.44.09:872][ 18]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.12.02-11.44.09:873][ 18]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.02-11.44.09:873][ 18]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.02-11.44.09:873][ 18]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:873][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:875][ 18]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:875][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:875][ 18]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:875][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:875][ 18]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:875][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:875][ 18]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:875][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:875][ 18]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:875][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:875][ 18]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:875][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:875][ 18]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:875][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:875][ 18]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:875][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:875][ 18]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:875][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:875][ 18]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:875][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:875][ 18]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:875][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:875][ 18]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:875][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:876][ 18]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:876][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:876][ 18]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:876][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:876][ 18]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-11.44.09:876][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-11.44.09:876][ 18]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.12.02-11.44.09:876][ 18]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.02-11.44.09:878][ 18]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.12.02-11.44.09:880][ 18]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.02-11.44.09:880][ 18]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.02-11.44.09:880][ 18]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2025.12.02-11.44.09:880][ 18]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.02-11.44.09:880][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.12.02-11.44.09:882][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.12.02-11.44.09:887][ 18]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.02-11.44.09:887][ 18]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.02-11.44.09:890][ 18]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.02-11.44.09:891][ 18]LogExit: Preparing to exit.
+[2025.12.02-11.44.09:913][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.12.02-11.44.11:029][ 18]LogEditorDataStorage: Deinitializing
+[2025.12.02-11.44.11:133][ 18]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.02-11.44.11:148][ 18]LogExit: Editor shut down
+[2025.12.02-11.44.11:150][ 18]LogExit: Transaction tracking system shut down
+[2025.12.02-11.44.11:208][ 18]LogExit: Object subsystem successfully closed.
+[2025.12.02-11.44.11:280][ 18]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.02-11.44.11:366][ 18]LogMemoryProfiler: Shutdown
+[2025.12.02-11.44.11:366][ 18]LogNetworkingProfiler: Shutdown
+[2025.12.02-11.44.11:366][ 18]LoadingProfiler: Shutdown
+[2025.12.02-11.44.11:366][ 18]LogTimingProfiler: Shutdown
+[2025.12.02-11.44.11:366][ 18]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.12.02-11.44.11:366][ 18]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.12.02-11.44.11:625][ 18]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.02-11.44.11:652][ 18]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.02-11.44.11:653][ 18]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17820842-427B-E367-2310-CC8B50ECE8B9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=be754af242cf9b0c2d27a4a95ac51347%7C9d84592dc66244a0a62ae9a7ecd6cde7%7C3640f2b2-d966-4856-bd1a-01293613ce3c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.02-11.44.12:695][ 18]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.02-11.44.12:701][ 18]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.02-11.44.12:701][ 18]RenderDocPlugin: plugin has been unloaded.
+[2025.12.02-11.44.12:703][ 18]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.02-11.44.12:703][ 18]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.02-11.44.12:703][ 18]LogPakFile: Destroying PakPlatformFile
+[2025.12.02-11.44.12:978][ 18]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.02-11.44.13:053][ 18]LogExit: Exiting.
+[2025.12.02-11.44.13:068][ 18]Log file closed, 12/02/25 20:44:13
