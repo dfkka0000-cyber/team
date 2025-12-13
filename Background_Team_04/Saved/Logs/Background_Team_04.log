@@ -1240,6 +1240,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 	NumCachedDirectories 0. NumUncachedDirectories 1658. NumCachedFiles 7631. NumUncachedFiles 93.
 	BackgroundTickInterruptions 0.
 <<<<<<< HEAD
+<<<<<<< HEAD
 [2025.12.12-04.06.21:537][  0]LogPlacementMode: Display: The Asset Registry is done with its initial scan, the list of placeable classes has been updated.
 [2025.12.12-04.06.21:543][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
 [2025.12.12-04.06.21:543][  0]LogSourceControl: Uncontrolled asset discovery started...
@@ -19680,6 +19681,8 @@ Sampler Limit: 32
 [2025.12.12-04.24.12:877][344]LogPakFile: Destroying PakPlatformFile
 [2025.12.12-04.24.13:237][344]Log file closed, 12/12/25 13:24:13
 =======
+=======
+>>>>>>> 69f548cc7d3e1d4b7ea17b9a77cd15625c7fc3de
 [2025.12.13-15.10.39:019][  1]LogPlacementMode: Display: The Asset Registry is done with its initial scan, the list of placeable classes has been updated.
 [2025.12.13-15.10.39:028][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
 [2025.12.13-15.10.39:029][  1]LogSourceControl: Uncontrolled asset discovery started...
@@ -19992,4 +19995,7 @@ Sampler Limit: 32
 [2025.12.13-15.11.22:546][916]LogD3D12RHI: ~FD3D12DynamicRHI
 [2025.12.13-15.11.22:612][916]LogExit: Exiting.
 [2025.12.13-15.11.22:631][916]Log file closed, 12/14/25 00:11:22
+<<<<<<< HEAD
+>>>>>>> 69f548cc7d3e1d4b7ea17b9a77cd15625c7fc3de
+=======
 >>>>>>> 69f548cc7d3e1d4b7ea17b9a77cd15625c7fc3de
